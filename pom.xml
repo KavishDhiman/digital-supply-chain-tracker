@@ -28,6 +28,7 @@
         <module>Services/checkpoint-service</module>
         <module>Services/alert-service</module>
         <module>Services/notification-service</module>
+        <module>Services/report-service</module>
     </modules>
 
     <properties>
